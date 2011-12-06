@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Constant-Generate
-version:            0.02
+version:            0.03
 abstract:           Common tasks for symbolic constants
 author:
     - M. Nunberg <mnunberg@haskalah.org>
