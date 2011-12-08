@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Constant-Generate
-version:            0.03
+version:            0.04
 abstract:           Common tasks for symbolic constants
 author:
     - M. Nunberg <mnunberg@haskalah.org>
@@ -11,6 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
+    constant:    1.17
     Test::More:  0
 no_index:
     directory:
