@@ -21,4 +21,4 @@ requires:
   Scalar::Util: 1.2
   Test::More: 0
   constant: 1.17
-version: 0.15
+version: 0.16
